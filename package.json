@@ -1,0 +1,16 @@
+{
+  "name": "startup_api_demo",
+  "version": "1.0.0",
+  "description": "worlds startup data api",
+  "license": "ISC",
+  "author": "Rohit Agarwal",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
